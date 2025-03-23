@@ -4,6 +4,18 @@
             "matches": "*:player death explosion buildup",
             "sounds": [
                 {
+                    "sound": "PreDeath_yakhochu.ogg",
+                    "weight": 3
+                },
+                {
+                    "sound": "PreDeath_NOHOMO.ogg",
+                    "weight": 3
+                },
+                {
+                    "sound": "PreDeath_tiznovu.ogg",
+                    "weight": 3
+                },
+                {
                     "sound": "PreDeath_Geometry.ogg",
 					"weight": 2
                 },
@@ -37,6 +49,14 @@
 			],
             "sounds": [
                 {
+                    "sound": "DeathLayer_pensionerumer.ogg",
+                    "weight": 2
+                },
+                {
+                    "sound": "DeathLayer_otchenash.ogg",
+                    "weight": 2
+                },
+                {
                     "sound": "DeathLayer1_Bell.ogg",
 					"weight": 2
                 },
@@ -53,6 +73,14 @@
 			"*:player death explosion03",
 			],
             "sounds": [
+                {
+                    "sound": "DeathLayer2_vtoroe.ogg",
+                    "weight": 1
+                },
+                {
+                    "sound": "DeathLayer2_kaminy.ogg",
+                    "weight": 1
+                },
                 {
                     "sound": "DeathLayer2_CJ.ogg",
 					"weight": 1
