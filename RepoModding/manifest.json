@@ -1,0 +1,9 @@
+{
+    "name": "Talking_Death_Heads",
+    "version_number": "0.0.11",
+    "website_url": "https://github.com/valkyrieBae/TalkingDeathHeads/tree/master",
+    "description": "When you die, you speak from your head! Known issues: can be a decent amount of clipping, no text to speech (I heard of the mod DeadTTS which might work with this?), and a slight delay after the arena fight before everyone can talk again.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

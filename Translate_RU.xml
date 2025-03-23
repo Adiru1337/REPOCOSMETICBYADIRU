@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTranslate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Translate key="Settings" translate="Настройки" />
+  <Translate key="Mods" translate="Моды" />
+  <Translate key="MODS" translate="Моды" />
+  <Translate key="Gameplay" translate="Геймплей" />
+  <Translate key="Graphics" translate="Графика" />
+  <Translate key="Audio" translate="Аудио" />
+  <Translate key="Controls" translate="Управление" />
+  <Translate key="Back" translate="Назад" />
+  <Translate key="controls" translate="управление" />
+  <Translate key="RESET TO DEFAULT SETTINGS" translate="СБРОСИТЬ НАСТРОЙКИ" />
+  <Translate key="RESET CONTROLS?" translate="СБРОСИТЬ НАСТРОЙКИ?" />
+  <Translate key="Reset all controls to default settings?" translate="Сбросить все настройки по &#10;&#10;умолчанию?" />
+  <Translate key="RESET GAMEPLAY SETTINGS?" translate="СБРОСИТЬ НАСТРОЙКИ ГРАФИКИ?" />
+  <Translate key="Reset all gameplay settings to default properties?" translate="Сбросить все настройки графики по &#10;&#10;умолчанию?" />
+  <Translate key="DELETE SAVE?" translate="УДАЛИТЬ СОХРАНЕНИЕ?" />
+  <Translate key="Are you REALLY SURE you want to delete this save FOREVER?" translate="Вы ДЕЙСТВИТЕЛЬНО УВЕРЕНЫ, что &#10;&#10;хотите удалить это сохранение?" />
+  <Translate key="MOVEMENT" translate="ПЕРЕДВИЖЕНИЕ" />
+  <Translate key="MOVE FORWARD" translate="ВПЕРЕД" />
+  <Translate key="move left" translate="ВЛЕВО" />
+  <Translate key="MOVE BACK" translate="НАЗАД" />
+  <Translate key="Move RIGHT" translate="ВПРАВО" />
+  <Translate key="jump" translate="прыжок" />
+  <Translate key="SPACE" translate="ПРОБЕЛ" />
+  <Translate key="crouch" translate="присесть" />
+  <Translate key="CONTROL" translate="CTRL" />
+  <Translate key="hold" translate="удерживать" />
+  <Translate key="sprint" translate="бег" />
+  <Translate key="LEFT SHIFT" translate="ЛЕВЫЙ SHIFT" />
+  <Translate key="TUMBLE" translate="СВЕРНУТЬСЯ" />
+  <Translate key="GRABBING" translate="ВЗАИМОДЕЙСТВИЕ" />
+  <Translate key="grab" translate="взять" />
+  <Translate key="MOUSE LEFT" translate="ЛКМ" />
+  <Translate key="rotate&#xA;" translate="повернуть" />
+  <Translate key="MOUSE RIGHT" translate="ПКМ" />
+  <Translate key="push" translate="отдалить" />
+  <Translate key="MOUSE SCROLL" translate="КОЛЕСИКО МЫШИ" />
+  <Translate key="pull" translate="притянуть" />
+  <Translate key="OTHER" translate="другое" />
+  <Translate key="map&#xA;" translate="карта" />
+  <Translate key="interact&#xA;" translate="взаимодействовать" />
+  <Translate key="inventory 1" translate="слот 1" />
+  <Translate key="inventory 2" translate="слот 2" />
+  <Translate key="inventory 3" translate="слот 3" />
+  <Translate key="chat" translate="чат" />
+  <Translate key="confirm&#xA;" translate="подтвердить" />
+  <Translate key="ESCAPE" translate="ESC" />
+  <Translate key="back&#xA;" translate="назад" />
+  <Translate key="menu&#xA;" translate="меню" />
+  <Translate key="spectate next" translate="Наблюдать за следующим" />
+  <Translate key="spectate previous" translate="Наблюдать за предыдущим" />
+  <Translate key="push to talk" translate="нажмите, чтобы говорить" />
+  <Translate key="Master volume" translate="Основная громкость" />
+  <Translate key="&lt;" translate="&lt;" />
+  <Translate key="&gt;" translate="&gt;" />
+  <Translate key="music volume" translate="громкость музыки" />
+  <Translate key="sound effects volume" translate="громкость звуковых эффектов" />
+  <Translate key="proximity voice volume" translate="громкость голоса вблизи" />
+  <Translate key="Text To speech" translate="Текст в речь" />
+  <Translate key="microphone" translate="микрофон" />
+  <Translate key="device name" translate="название девайса" />
+  <Translate key="Microphone volume" translate="Громкость микрофона" />
+  <Translate key="Push to Talk" translate="Нажмите, чтобы говорить" />
+  <Translate key="ON" translate="ВКЛ" />
+  <Translate key="OFF" translate="ВЫКЛ" />
+  <Translate key="Window Mode" translate="Режим экрана" />
+  <Translate key="Vsync" translate="V-sync" />
+  <Translate key="Gamma" translate="Гамма" />
+  <Translate key="Max FPS" translate="Макс FPS" />
+  <Translate key="Light Distance" translate="Дальность света" />
+  <Translate key="Shadow Quality" translate="Качество теней" />
+  <Translate key="Shadow Distance" translate="Дальность теней" />
+  <Translate key="Motion Blur" translate="Размытие в движении" />
+  <Translate key="Lens Distortion" translate="Размытие линз" />
+  <Translate key="Bloom" translate="Свечение" />
+  <Translate key="Chromatic Aberration" translate="Хроматическая аберрация" />
+  <Translate key="Grain" translate="Зернистость" />
+  <Translate key="Glitch Loop" translate="Глитчи" />
+  <Translate key="Pixelation" translate="Пикселизация" />
+  <Translate key="Tips" translate="Подсказки" />
+  <Translate key="Player Names" translate="Ники игроков" />
+  <Translate key="Aim Sensitivity" translate="Чувствительность мыши" />
+  <Translate key="Camera Smoothing" translate="Плавность камеры" />
+  <Translate key="Camera Shake" translate="Тряска камеры" />
+  <Translate key="Camera Noise" translate="Шум камеры" />
+  <Translate key="Camera Animation" translate="Анимация камеры" />
+  <Translate key="pop up" translate="Уведомление" />
+  <Translate key="YES" translate="ДА" />
+  <Translate key="NO" translate="НЕТ" />
+  <Translate key="Are you sure?&#xA;Are you sure?&#xA;&#xA;Are you sure?" translate="Вы уверены?&#10;&#10;Вы уверены?&#10;&#10;Вы уверены?" />
+  <Translate key="LOADING" translate="ЗАГРУЗКА" />
+  <Translate key="&lt; GO BACK" translate="&lt; НАЗАД" />
+  <Translate key="SAVED GAMES" translate="СОХРАНЕНИЯ" />
+  <Translate key="Singleplayer mode" translate="Одиночная игра" />
+  <Translate key="NEW GAME" translate="НОВАЯ ИГРА" />
+  <Translate key="Saved games" translate="Сохранения" />
+  <Translate key="Here's all the fun you’ve had and the opportunity to pick up right where you left off." translate="Вот все веселье, которое вы пережили, а также возможность продолжить с того места, на котором остановились." />
+  <Translate key="Team semiooeeeeeeeeeets&lt;/b&gt;" translate="Team semiooeeeeeeeeeets&lt;/b&gt;" />
+  <Translate key="BUILD NAME" translate="НОМЕР СБОРКИ" />
+  <Translate key="host game" translate="Создать игру" />
+  <Translate key="Tutorial" translate="Туториал" />
+  <Translate key="join game" translate="Присоединится к игре" />
+  <Translate key="singleplayer" translate="Одиночная игра" />
+  <Translate key="Quit game" translate="Выйти из игры" />
+  <Translate key="Host a game?" translate="Создать игру?" />
+  <Translate key="The friend with the best computer&#xA;and internet should host.&#xA;&#xA;Are you this friend?" translate="Игрок с хорошим компьютером&#10;&#10;и интернетом должен быть хостом.&#10;&#10;Вы таким являетесь?" />
+  <Translate key="Default" translate="Стандарт" />
+  <Translate key="toggle" translate="нажать" />
+  <Translate key="Master Volume" translate="Основная громкость" />
+  <Translate key="Music Volume" translate="Громкость музыки" />
+  <Translate key="Sfx Volume" translate="Громкость эффектов" />
+  <Translate key="Proximity Voice Volume" translate="Громкость голоса при приближении" />
+  <Translate key="Text to Speech Volume" translate="Громкость озвучки чата" />
+  <Translate key="VOICE" translate="ГРОМКОСТЬ" />
+  <Translate key="Microphone" translate="Микрофон" />
+  <Translate key="NONE" translate="Не выбран" />
+  <Translate key="Microphone (Realte..." translate="Микрофон (Realte..." />
+  <Translate key="Microphone Volume" translate="Громкость микрофона" />
+  <Translate key="Microphone (Realtek High Definition Audio)" translate="Микрофон (Realtek High Definition Audio)" />
+  <Translate key="Fullscreen" translate="Полный экран" />
+  <Translate key="Windowed" translate="В окне" />
+  <Translate key="Unlimited" translate="Неограничено" />
+  <Translate key="Very High" translate="Очень высокое" />
+  <Translate key="Low" translate="Низкое" />
+  <Translate key="Quit Game" translate="Выйти из игры" />
+  <Translate key="Close the entire application?" translate="Закрыть приложение?" />
+  <Translate key="Start a new game?" translate="Начать новую игру?" />
+  <Translate key="Do you want to start a game?" translate="Вы хотите начать игру?" />
+  <Translate key="KING OF THE LOSERS!" translate="ЦАРЬ ЛУЗЕРОВ!" />
+  <Translate key="&lt;sprite name=:)&gt;" translate="&lt;sprite name=:)&gt;" />
+  <Translate key="CHAT:" translate="ЧАТ:" />
+  <Translate key="EXTRACTION POINT ACTIVATED" translate="ТОЧКА СБОРА &#10;&#10;АКТИВИРОВАНА" />
+  <Translate key="Use &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; to move" translate="Используйте &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; для движения" />
+  <Translate key="Use &lt;b&gt;&lt;u&gt;LEFT MOUSE + RIGHT MOUSE&lt;/b&gt;&lt;/u&gt; to rotate an object you are holding" translate="Используйте &lt;b&gt;&lt;u&gt;ЛКМ + ПКМ&lt;/b&gt;&lt;/u&gt; для вращения поднятого предмета" />
+  <Translate key="UPGRADES" translate="УЛУЧШЕНИЯ" />
+  <Translate key="The Broken Ones:" translate="Сломанные:" />
+  <Translate key="LAST LOSER STANDING" translate="ПОСЛЕДНИЙ ЛУЗЕР" />
+  <Translate key="EVERYONE'S A LOSER!" translate="ВСЕ ЛУЗЕРЫ!" />
+  <Translate key="&lt;b&gt;Mission &gt; &lt;/b&gt;  Fill all extraction points with valuables&#xA;" translate="&lt;b&gt;Миссия &gt; &lt;/b&gt; Заполните все точки &#10;&#10;сбора ценными предметами" />
+  <Translate key="SWORD" translate="МЕЧ" />
+  <Translate key="POWER MODE: WEAK" translate="POWER MODE: СЛАБЫЙ" />
+  <Translate key="READY" translate="ГОТОВ" />
+  <Translate key="&lt;sprite name=message_arrow&gt;" translate="&lt;sprite name=message_arrow&gt;" />
+  <Translate key="&lt;sprite name=message&gt;" translate="&lt;sprite name=message&gt;" />
+  <Translate key="Change color" translate="Поменять цвет" />
+  <Translate key="Menu" translate="Меню" />
+  <Translate key="Continue" translate="Продолжить" />
+  <Translate key="Self Destruct" translate="Самоуничтожится" />
+  <Translate key="Main Menu" translate="Главное Меню" />
+  <Translate key="■" translate="■" />
+  <Translate key="select color" translate="выберите цвет" />
+  <Translate key="Confirm" translate="Подтвердить" />
+  <Translate key="&lt;sprite name=!&gt;" translate="&lt;sprite name=!&gt;" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Fill the extraction point with valuables" translate="&lt;b&gt;ВНИМАНИЕ &gt; &lt;/b&gt;Заполните точку &#10;&#10;сбора ценными предметами" />
+  <Translate key="ACTIVE" translate="АКТИВНО" />
+  <Translate key="C.A.R.T." translate="C.A.R.T." />
+  <Translate key="Mode: STRONG" translate="Режим: СИЛЬНЫЙ" />
+  <Translate key="Small" translate="Маленькая" />
+  <Translate key="!!!!!!!!!" translate="!!!!!!!!!" />
+  <Translate key="TAX RETURN" translate="ПОДСЧЕТ" />
+  <Translate key="EXTRACTING" translate="СБОР" />
+  <Translate key="EXTRACTION POINT COMPLETED" translate="ТОЧКА СБОРА &#10;&#10;ЗАВЕРШЕНА" />
+  <Translate key="&lt;sprite name=check&gt;" translate="&lt;sprite name=check&gt;" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Get back to the truck!" translate="&lt;b&gt;ВНИМАНИЕ &gt; &lt;/b&gt;Вернитесь в фургон!" />
+  <Translate key="COMPLETED" translate="ЗАВЕРШЕНО" />
+  <Translate key="&lt;sprite name=truck&gt;" translate="&lt;sprite name=truck&gt;" />
+  <Translate key="&lt;sprite name=truck&gt;&lt;sprite name=arrowright&gt;" translate="&lt;sprite name=truck&gt;&lt;sprite name=arrowright&gt;" />
+  <Translate key="&lt;sprite name=truck&gt;&lt;sprite name=arrowright&gt;&lt;sprite name=road&gt;" translate="&lt;sprite name=truck&gt;&lt;sprite name=arrowright&gt;&lt;sprite name=road&gt;" />
+  <Translate key="&lt;sprite name=truck&gt;&lt;sprite name=arrowright&gt;&lt;sprite name=road&gt;&lt;sprite name=?&gt;" translate="&lt;sprite name=truck&gt;&lt;sprite name=arrowright&gt;&lt;sprite name=road&gt;&lt;sprite name=?&gt;" />
+  <Translate key="STARTING ENGINE" translate="ДВИГАТЕЛЬ ЗАПУСКАЕТСЯ" />
+  <Translate key="HITTING THE ROAD" translate="ОТПРАВЛЯЕМСЯ В ПУТЬ" />
+  <Translate key="SHOP" translate="МАГАЗИН" />
+  <Translate key="SERVICE STATION" translate="СТАНЦИЯ ОБСЛУЖИВАНИЯ" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Buy stuff in the shop" translate="&lt;b&gt;ВНИМАНИЕ &gt; &lt;/b&gt;Вы можете что-нибудь купить &#10;&#10;в магазине" />
+  <Translate key="TAX$$$$$$" translate="TAX$$$$$$" />
+  <Translate key="$TAXTAX$$" translate="$TAXTAX$$" />
+  <Translate key="$$$$TAX$$" translate="$$$$TAX$$" />
+  <Translate key="Map Player Count Upgrade" translate="Количество выживших на карте" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Enjoy the ride, recharge stuff and GEAR UP!" translate="&lt;b&gt;ВНИМАНИЕ &gt; &lt;/b&gt;Наслаждайтесь поездкой, &#10;&#10;пополняйте запасы и ПРИГОТОВЬТЕСЬ!" />
+  <Translate key="Exit to main menu?" translate="Выйти в главное меню?" />
+  <Translate key="R.E.P.O." translate="R.E.P.O." />
+  <Translate key="Multiplayer mode" translate="Многопользовательская игра" />
+  <Translate key="High" translate="Высокое" />
+  <Translate key="Medium" translate="Среднее" />
+  <Translate key="Very Low" translate="Очень низкое" />
+  <Translate key="DELETE SAVE" translate="УДАЛИТЬ" />
+  <Translate key="LOAD SAVE" translate="ЗАГРУЗИТЬ" />
+  <Translate key="Team semibeeeeeeeeeeeeeeeeeeeeeots" translate="Team semibeeeeeeeeeeeeeeeeeeeeeots" />
+  <Translate key="Load save?" translate="Загрузить сохранение?" />
+  <Translate key="Load this save file?" translate="Загрузить это сохранение?" />
+  <Translate key="LOCKED" translate="ЗАБЛОКИРОВАНО" />
+  <Translate key="TAX$$TAX$" translate="TAX$$TAX$" />
+  <Translate key="TAXTAX$$$" translate="TAXTAX$$$" />
+  <Translate key="Off" translate="Выкл" />
+  <Translate key="GAME OVER" translate="ИГРА ОКОНЧЕНА" />
+  <Translate key="DISPOSAL ARENA" translate="АРЕНА УТИЛИЗАЦИИ" />
+  <Translate key="Use &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; to move." translate="Используйте &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt;, чтобы двигаться." />
+  <Translate key="Use &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; on your keyboard until the progress bar is filled!" translate="Используйте &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; на вашей клавиатуре, пока шкала полностью не &#10;&#10;заполнится!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Move to fill the progress bar" translate="&lt;b&gt;&#10;&#10;ВНИМАНИЕ &gt; &lt;/b&gt;Двигайтесь, чтобы полностью &#10;&#10;заполнить шкалу" />
+  <Translate key="Good job! &lt;sprite name=creepycrying&gt;" translate="Хорошая работа! &lt;sprite name=creepycrying&gt;" />
+  <Translate key="Press &lt;u&gt;&lt;b&gt;SPACE&lt;/b&gt;&lt;/u&gt; to do jumps until the progress bar is filled!" translate="Нажимайте &lt;u&gt;&lt;b&gt;ПРОБЕЛ&lt;/b&gt;&lt;/u&gt;, чтобы прыгать. Прыгайте до тех пор, пока &#10;&#10;шкала полностью не заполнится!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Jump to fill the progress bar" translate="&lt;b&gt;&#10;&#10;ВНИМАНИЕ &gt; &lt;/b&gt;Прыгайте, чтобы полностью &#10;&#10;заполнить шкалу" />
+  <Translate key="Press &lt;u&gt;&lt;b&gt;SPACE&lt;/b&gt;&lt;/u&gt; to jump." translate="Нажмите &lt;u&gt;&lt;b&gt;ПРОБЕЛ&lt;/b&gt;&lt;/u&gt;, чтобы прыгнуть." />
+  <Translate key="Hold &lt;u&gt;&lt;b&gt;CONTROL&lt;/b&gt;&lt;/u&gt; and use &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; until the progess is filled!" translate="Удерживайте &lt;u&gt;&lt;b&gt;CTRL&lt;/b&gt;&lt;/u&gt; и используйте &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt;, пока шкала полностью не &#10;&#10;заполнится!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Sneak to fill the progress bar" translate="&lt;b&gt;&#10;&#10;ВНИМАНИЕ &gt; &lt;/b&gt;Ползайте, чтобы полностью &#10;&#10;заполнить шкалу" />
+  <Translate key="Press &lt;u&gt;&lt;b&gt;CONTROL&lt;/b&gt;&lt;/u&gt; to sneak. Monsters are less likely to see you." translate="Нажмите &lt;u&gt;&lt;b&gt;CTRL&lt;/b&gt;&lt;/u&gt;, чтобы пригнуться. Монстры с меньшей вероятностью смогут вас заметить." />
+  <Translate key="Hold &lt;u&gt;&lt;b&gt;CONTROL&lt;/b&gt;&lt;/u&gt; and walk in under a prop, stay there until you fill the progress bar!" translate="Удерживайте &lt;u&gt;&lt;b&gt;CTRL&lt;/b&gt;&lt;/u&gt; и залезьте под объект. Оставайтесь там, пока &#10;&#10;полностью не заполните шкалу!" />
+  <Translate key="Use &lt;u&gt;&lt;b&gt;CONTROL&lt;/b&gt;&lt;/u&gt; to sneak under stuff and hide." translate="Используйте &lt;u&gt;&lt;b&gt;CTRL&lt;/b&gt;&lt;/u&gt;, чтобы прятаться под объектами." />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Hide to fill the progress bar" translate="&lt;b&gt;&#10;&#10;ВНИМАНИЕ &gt; &lt;/b&gt;Спрячьтесь, чтобы полностью &#10;&#10;заполнить шкалу" />
+  <Translate key="Hold &lt;u&gt;&lt;b&gt;LEFT SHIFT&lt;/b&gt;&lt;/u&gt; and use &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; to sprint until you filled the progress bar! If the energy runs out, wait for it to regenerate!" translate="Удерживайте &lt;u&gt;&lt;b&gt;ЛЕВЫЙ SHIFT&lt;/b&gt;&lt;/u&gt; и используйте &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; , чтобы бежать. &#10;&#10;Бегайте, пока шкала полностью не заполнится. Если энергия закончится, &#10;&#10;подождите, пока она не восстановится!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Sprint to fill the progress bar" translate="&lt;b&gt;&#10;&#10;ВНИМАНИЕ &gt; &lt;/b&gt;Бегайте, чтобы полностью &#10;&#10;заполнить шкалу" />
+  <Translate key="Hold down &lt;u&gt;&lt;b&gt;LEFT SHIFT&lt;/b&gt;&lt;/u&gt; to sprint. This drains your energy." translate="Удерживайте &lt;u&gt;&lt;b&gt;ЛЕВЫЙ SHIFT&lt;/b&gt;&lt;/u&gt;, чтобы бежать. Это расходует вашу выносливость." />
+  <Translate key="Run (&lt;u&gt;&lt;b&gt;LEFT SHIFT&lt;/b&gt;&lt;/u&gt;), jump (&lt;u&gt;&lt;b&gt;SPACE&lt;/b&gt;&lt;/u&gt;) and press &lt;u&gt;&lt;b&gt;Q&lt;/b&gt;&lt;/u&gt; to throw yourself. Do it until you fill the progress bar!" translate="Удерживайте &lt;u&gt;&lt;b&gt;ЛЕВЫЙ SHIFT&lt;/b&gt;&lt;/u&gt; и разбегитесь, прыгните на &lt;u&gt;&lt;b&gt;ПРОБЕЛ&lt;/b&gt;&lt;/u&gt; и &#10;&#10;нажмите &lt;u&gt;&lt;b&gt;Q&lt;/b&gt;&lt;/u&gt;, чтобы выполнить рывок. Выполняйте рывки до тех пор, пока &#10;&#10;полностью не заполните шкалу!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Run, jump and fall to fill the progress bar" translate="&lt;b&gt;&#10;&#10;ВНИМАНИЕ &gt; &lt;/b&gt; Делайте рывки, пока полностью не &#10;&#10;заполните шкалу" />
+  <Translate key="Run and press &lt;u&gt;&lt;b&gt;Q&lt;/b&gt;&lt;/u&gt; to fall with style. Jumping also helps!" translate="Разбегитесь и нажмите &lt;u&gt;&lt;b&gt;Q&lt;/b&gt;&lt;/u&gt;, чтобы выполнить рывок. В прыжке тоже можно!" />
+  <Translate key="Grab (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) and hold it until you fill the progress bar!" translate="Возьмите &lt;u&gt;&lt;b&gt;ЛКМ&lt;/b&gt;&lt;/u&gt; предмет и удерживайте его, пока шкала полностью не &#10;&#10;заполнится!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Carry that thing to fill the progress bar" translate="&lt;b&gt;&#10;&#10;ВНИМАНИЕ &gt; &lt;/b&gt;Удерживайте предмет, чтобы &#10;&#10;полностью заполнить шкалу" />
+  <Translate key="Grab objects using &lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;." translate="Берите предметы с помощью &lt;u&gt;&lt;b&gt;ЛКМ&lt;/b&gt;&lt;/u&gt;." />
+  <Translate key="Grab (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) an item and use &lt;u&gt;&lt;b&gt;MOUSE SCROLL&lt;/b&gt;&lt;/u&gt; to alter the distance of the item you grabbed!" translate="Возьмите &lt;u&gt;&lt;b&gt;ЛКМ&lt;/b&gt;&lt;/u&gt; предмет и используйте &lt;u&gt;&lt;b&gt;КОЛЕСИКО МЫШИ&lt;/b&gt;&lt;/u&gt;, чтобы изменить &#10;&#10;расстояние до предмета, который вы взяли!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Alter the distance of a grabbed item" translate="&lt;b&gt;&#10;&#10;ВНИМАНИЕ &gt; &lt;/b&gt;Измените расстояние до &#10;&#10;предмета, который вы взяли" />
+  <Translate key="Use &lt;u&gt;&lt;b&gt;MOUSE SCROLL&lt;/b&gt;&lt;/u&gt; to alter the distance of grabbed objects." translate="Используйте &lt;u&gt;&lt;b&gt;КОЛЕСИКО МЫШИ&lt;/b&gt;&lt;/u&gt;, чтобы изменить расстояние между предметами." />
+  <Translate key="Grab (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) and hold it while you press &lt;u&gt;&lt;b&gt;MOUSE RIGHT&lt;/b&gt;&lt;/u&gt; and move your aim to rotate it. Rotate until you fill the progress bar!" translate="Возьмите &lt;u&gt;&lt;b&gt;ЛКМ&lt;/b&gt;&lt;/u&gt; предмет и удерживайте его, следом зажмите &lt;u&gt;&lt;b&gt;ПКМ&lt;/b&gt;&lt;/u&gt; и &#10;&#10;перемещайте камеру, чтобы повернуть его. Вращайте предмет, пока шкала &#10;&#10;полностью не заполнится!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Rotate stuff to fill the progress bar." translate="&lt;b&gt;&#10;&#10;ВНИМАНИЕ &gt; &lt;/b&gt;Вращайте предмет, чтобы &#10;&#10;полностью заполнить шкалу" />
+  <Translate key="Rotate grabbed objects using &lt;u&gt;&lt;b&gt;MOUSE RIGHT&lt;/b&gt;&lt;/u&gt;." translate="Вращайте поднятые предметы с помощью &lt;u&gt;&lt;b&gt;ПКМ&lt;/b&gt;&lt;/u&gt;." />
+  <Translate key="Grab (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) the ball and toggle it on and off using &lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt; until you fill the progress bar!" translate="Возьмите &lt;u&gt;&lt;b&gt;ЛКМ&lt;/b&gt;&lt;/u&gt; шар и переключайте вкл/выкл с помощью &lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;, пока &#10;&#10;полностью не заполните шкалу!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Toggle that thing on and off." translate="&lt;b&gt;&#10;&#10;ВНИМАНИЕ &gt; &lt;/b&gt;Включайте и выключайте &#10;&#10;эту штуку" />
+  <Translate key="Grab and press &lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt; to toggle items." translate="Возьмите и нажмите &lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;, чтобы взаимодействовать с предметом." />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Fill your entire inventory." translate="&lt;b&gt;&#10;&#10;ВНИМАНИЕ &gt; &lt;/b&gt;Полностью заполните &#10;&#10;свой инвентарь" />
+  <Translate key="Grab an Item and use &lt;u&gt;&lt;b&gt;1&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;2&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;3&lt;/b&gt;&lt;/u&gt; to put it in your inventory." translate="Возьмите предмет и нажмите &lt;u&gt;&lt;b&gt;1&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;2&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;3&lt;/b&gt;&lt;/u&gt;, чтобы поместить его в свой инвентарь." />
+  <Translate key="Grab (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) an item, hold it and press &lt;u&gt;&lt;b&gt;1&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;2&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;3&lt;/b&gt;&lt;/u&gt;. Fill all spots in your inventory to complete the progress bar!" translate="Возьмите &lt;u&gt;&lt;b&gt;ЛКМ&lt;/b&gt;&lt;/u&gt; предмет, удерживайте его и нажмите &lt;u&gt;&lt;b&gt;1&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;2&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;3&lt;/b&gt;&lt;/u&gt;. &#10;&#10;Заполните все место в инвентаре, чтобы шкала полностью &#10;&#10;заполнилась!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Empty your entire inventory." translate="&lt;b&gt;&#10;&#10;ВНИМАНИЕ &gt; &lt;/b&gt;Полностью освободите &#10;&#10;свой инвентарь" />
+  <Translate key="Use &lt;u&gt;&lt;b&gt;1&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;2&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;3&lt;/b&gt;&lt;/u&gt; to take items out of your inventory." translate="Используйте &lt;u&gt;&lt;b&gt;1&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;2&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;3&lt;/b&gt;&lt;/u&gt;, чтобы выбросить предметы из инвентаря." />
+  <Translate key="Use &lt;u&gt;&lt;b&gt;1&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;2&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;3&lt;/b&gt;&lt;/u&gt; and empty all spots to fill the progress bar!" translate="Используйте &lt;u&gt;&lt;b&gt;1&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;2&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;3&lt;/b&gt;&lt;/u&gt; и освободите все место в инвентаре, чтобы шкала &#10;&#10;полностью заполнилась!" />
+  <Translate key="Hold down &lt;u&gt;&lt;b&gt;TAB&lt;/b&gt;&lt;/u&gt; and view it until you have filled the progress bar!" translate="Удерживайте &lt;u&gt;&lt;b&gt;TAB&lt;/b&gt;&lt;/u&gt; и смотрите карту, чтобы полностью заполнить шкалу!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Check the map." translate="&lt;b&gt;&#10;&#10;ВНИМАНИЕ &gt; &lt;/b&gt;Посмотрите на карту" />
+  <Translate key="Use &lt;u&gt;&lt;b&gt;TAB&lt;/b&gt;&lt;/u&gt; to view the map. The map is &lt;b&gt;&lt;u&gt;important&lt;/b&gt;&lt;/u&gt; for navigation." translate="Используйте &lt;u&gt;&lt;b&gt;TAB&lt;/b&gt;&lt;/u&gt;, чтобы посмотреть карту. Карта &lt;b&gt;&lt;u&gt;используется&lt;/b&gt;&lt;/u&gt; для навигации." />
+  <Translate key="Grab (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) the C.A.R.T. by the handle and walk around with it until you have filled the progress bar!" translate="Возьмитесь &lt;u&gt;&lt;b&gt;ЛКМ&lt;/b&gt;&lt;/u&gt; за ручку C.A.R.T. и походите вместе, пока &#10;&#10;полностью не заполните шкалу!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Walk around with the C.A.R.T. a little." translate="&lt;b&gt;&#10;&#10;ВНИМАНИЕ &gt; &lt;/b&gt;Немного походите с C.A.R.T." />
+  <Translate key="This is a C.A.R.T. Grab it by the handle." translate="Это C.A.R.T. Возьмитесь за его ручку." />
+  <Translate key="Mode: WEAK" translate="Режим: СЛАБЫЙ" />
+  <Translate key="Put three items into the C.A.R.T." translate="Положите три ценных предмета в C.A.R.T." />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Fill the C.A.R.T. with valuables." translate="&lt;b&gt;&#10;&#10;ВНИМАНИЕ &gt; &lt;/b&gt;Заполните C.A.R.T. ценными &#10;&#10;предметами" />
+  <Translate key="Fill C.A.R.T.s with valuables. C.A.R.T.s are &lt;b&gt;&lt;u&gt;important&lt;/b&gt;&lt;/u&gt; for carrying more stuff." translate="Заполните C.A.R.T. ценными предметами. C.A.R.T. &lt;b&gt;&lt;u&gt;используется&lt;/b&gt;&lt;/u&gt; для перевозки большого количества предметов." />
+  <Translate key="HELLO! FILL THE &lt;b&gt;&lt;u&gt;EXTRACTION POINT&lt;/b&gt;&lt;/u&gt; WITH VALUABLES!" translate="Сдайте все ценные предметы на &lt;b&gt;&lt;u&gt;Точку Сбора&lt;/b&gt;&lt;/u&gt;!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Extract the valuables." translate="&lt;b&gt;&#10;&#10;ВНИМАНИЕ &gt; &lt;/b&gt;Сдайте все ценные предметы" />
+  <Translate key="Activate and fill &lt;b&gt;&lt;u&gt;Extraction Points&lt;/b&gt;&lt;/u&gt; with valuables." translate="Активируйте &lt;b&gt;&lt;u&gt;Точку Сбора&lt;/b&gt;&lt;/u&gt; и сдайте все ценные предметы." />
+  <Translate key="$TAX$TAX$" translate="$TAX$TAX$" />
+  <Translate key="TAX$TAX$$" translate="TAX$TAX$$" />
+  <Translate key="$$TAXTAX$" translate="$$TAXTAX$" />
+  <Translate key="Walk into the truck, grab (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) and hold the message area on the truck screen to send a message!" translate="Зайдите в грузовик, нажмите &lt;u&gt;&lt;b&gt;ЛКМ&lt;/b&gt;&lt;/u&gt; и удерживайте область на экране, чтобы &#10;&#10;отправить сообщение!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Get into the truck and send a message." translate="&lt;b&gt;&#10;&#10;ВНИМАНИЕ &gt; &lt;/b&gt;Сядьте в грузовик и &#10;&#10;отправьте сообщение своему боссу" />
+  <Translate key="Enter the &lt;b&gt;&lt;u&gt;truck&lt;/b&gt;&lt;/u&gt; and send a message to your boss in order to leave a level." translate="Зайдите в &lt;b&gt;&lt;u&gt;грузовик&lt;/b&gt;&lt;/u&gt; и отправьте сообщение своему боссу, чтобы завершить уровень." />
+  <Translate key="Self Destruction" translate="Самоуничтожение" />
+  <Translate key="Is that really so?" translate="Это реально то, что тебе нужно?" />
+  <Translate key="Leave Lobby" translate="Покинуть лобби" />
+  <Translate key="Are you sure?" translate="Вы уверены?" />
+  <Translate key="Lobby" translate="Лобби" />
+  <Translate key="Use &lt;b&gt;&lt;u&gt;T&lt;/u&gt;&lt;/b&gt; to chat" translate="Нажми &lt;b&gt;&lt;u&gt;T&lt;/u&gt;&lt;/b&gt; для открытия чата" />
+  <Translate key="start game" translate="начать игру" />
+  <Translate key="player joining..." translate="игрок заходит..." />
+  <Translate key="invite" translate="пригласить" />
+  <Translate key="Leave" translate="Выйти" />
+  <Translate key="Press &lt;u&gt;&lt;b&gt;T&lt;/b&gt;&lt;/u&gt; to chat" translate="Нажми &lt;u&gt;&lt;b&gt;T&lt;/b&gt;&lt;/u&gt; для открытия чата" />
+  <Translate key="AxelPoxel" translate="AxelPoxel" />
+  <Translate key="Element Name" translate="Element Name" />
+  <Translate key="Start Game" translate="Начать игру" />
+  <Translate key="Everyone ready?&#xA;&#xA;Once the game is started&#xA;new players can not join." translate="Все готовы?&#10;&#10;После начала игры &#10;&#10;новые игроки не смогут &#10;&#10;присоединиться." />
+  <Translate key="Donk E Kong" translate="Donk E Kong" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Find the next extraction point" translate="&lt;b&gt;ВНИМАНИЕ &gt; &lt;/b&gt;Найдите следующую точку сбора" />
+<!-- Вариация 1 -->
+  <!-- <Translate key="STAMINA&#xA;HEALTH&#xA;EXTRA JUMP&#xA;SPEED&#xA;LAUNCH&#xA;RANGE&#xA;MAP PLAYER COUNT&#xA;STRENGTH&#xA;" translate="ВЫНОСЛИВОСТЬ&#xA;ЗДОРОВЬЕ&#xA;ДВОЙНОЙ ПРЫЖОК&#xA;СКОРОСТЬ&#xA;РЫВОК&#xA;ДАЛЬНОСТЬ&#xA;КОЛИЧЕСТВО ИГРОКОВ НА КАРТЕ&#xA;СИЛА&#xA;" /> -->
+  <!-- translate by rasvettm -->
+  <!-- twitch.tv/rasvettm -->
+<!-- Карты -->
+  <Translate key="HEADMAN MANOR" translate="ПОМЕСТЬЕ ГОЛОВЫ" /> 
+  <Translate key="SWIFTBROOM ACADEMY" translate="АКАДЕМИЯ БЫСТРОЙ МЕТЛЫ" />
+  <Translate key="MCJANNEK STATION" translate="СТАНЦИЯ МАКДЖАННЕК" />
+<!-- Монстры -->
+  <Translate key="Animal" translate="Животное" />
+  <Translate key="Banger" translate="Бенгер" />
+  <Translate key="Bowtie" translate="Боути" />
+  <Translate key="Clown" translate="Клоун" />
+  <Translate key="Peeper" translate="Глаз" />
+  <Translate key="Apex Predator" translate="Уточка" />
+  <Translate key="Mentalist" translate="Менталист" />
+  <Translate key="Chef" translate="Шеф" />
+  <Translate key="Gnome" translate="Гном" />
+  <Translate key="Reaper" translate="Жнец" />
+  <Translate key="Headman" translate="Голова" />
+  <Translate key="Hidden" translate="Прячущийся" />
+  <Translate key="Huntsman" translate="Охотник" />
+  <Translate key="Robe" translate="Темный халат" />
+  <Translate key="Spewer" translate="Пасть" />
+  <Translate key="Trudge" translate="Тихоход" />
+  <Translate key="Shadow Child" translate="Дитя Тени" />
+  <Translate key="Upscream" translate="Крик" />
+  <Translate key="Rugrat" translate="Руграт" />
+<!-- Предметы -->
+  <Translate key="Grenade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Граната &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Grenade" translate="Граната" />
+  <Translate key="Stun Grenade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Оглушающая Граната &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Stun Grenade" translate="Оглушающая Граната" />
+  <Translate key="Shockwave Grenade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Пропульсионная Граната &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Shockwave Grenade" translate="Пропульсионная Граната" />
+  <Translate key="Stun Mine &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Оглушающая Мина &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Stun Mine" translate="Оглушающая Мина" />
+  <Translate key="Shockwave Mine &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Пропульсионная Мина &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Shockwave Mine" translate="Пропульсионная Мина" />
+  <Translate key="Explosive Mine &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Взрывная Мина &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Explosive Mine" translate="Взрывная Мина" />
+  <Translate key="Zero Gravity Orb &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Шар Нулевой Гравитации &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Zero Gravity Orb" translate="Шар Нулевой Гравитации" />
+  <Translate key="Zero Gravity Drone &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Дрон Нулевой Гравитации &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Zero Gravity Drone" translate="Дрон Нулевой Гравитации" />
+  <Translate key="Recharge Drone &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Дрон Зарядка &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Recharge Drone" translate="Дрон Зарядка" />
+  <Translate key="Feather Drone &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Дрон Перо &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Feather Drone" translate="Дрон Перо" />
+  <Translate key="Roll Drone &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Дрон Захват &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Roll Drone" translate="Дрон Захват" />
+  <Translate key="Indestructible Drone &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Дрон Защитник Предметов &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Indestructible Drone" translate="Дрон Защитник Предметов" />
+  <Translate key="Extraction Tracker &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Трекер Точки Сбора &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Extraction Tracker" translate="Трекер Точки Сбора" />
+  <Translate key="Valuable Tracker &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Металлоискатель &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Valuable Tracker" translate="Металлоискатель" />
+  <Translate key="Energy Crystal &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Энергетический кристалл &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Energy Crystal" translate="Энергетический кристалл" />
+  <Translate key="Rubber Duck &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Резиновая Уточка &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Rubber Duck" translate="Резиновая Уточка" />
+  <Translate key="POCKET C.A.R.T. &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="КАРМАННЫЙ C.A.R.T. &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="POCKET C.A.R.T." translate="КАРМАННЫЙ C.A.R.T." />
+  <Translate key="Frying Pan &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Сковородка &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Frying Pan" translate="Сковорода" />
+  <Translate key="Gun &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Пистолет &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Gun" translate="Пистолет" />
+  <Translate key="Tranq Gun &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Транквилизатор &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Tranq Gun" translate="Транквилизатор" />
+  <Translate key="Shotgun &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Дробовик &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Shotgun" translate="Дробовик" />
+  <Translate key="Sledge Hammer &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Кувалда &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Sledge Hammer" translate="Кувалда" />
+  <Translate key="Baseball Bat &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Бейсбольная Бита &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Baseball Bat" translate="Бейсбольная Бита" />
+  <Translate key="Inflatable Hammer &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Надувной Молоток &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Inflatable Hammer" translate="Надувной Молоток" />
+  <Translate key="Sword &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Меч &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Sword" translate="Меч" />
+  <Translate key="Small Health Pack (25) &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Маленькая Аптечка (25) &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Small Health Pack (25)" translate="Маленькая Аптечка (25)" />
+  <Translate key="Medium Health Pack (50) &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Средняя Аптечка (50) &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Medium Health Pack (50)" translate="Средняя Аптечка (50)" />
+  <Translate key="Large Health Pack (100) &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Большая Аптечка (100) &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Large Health Pack (100)" translate="Большая Аптечка (100)" />
+  <Translate key="Health Upgrade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Улучшение Здоровья &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Health Upgrade" translate="Улучшение Здоровья" />
+  <Translate key="Stamina Upgrade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Улучшение Выносливости &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Stamina Upgrade" translate="Улучшение Выносливости" />
+  <Translate key="Sprint Speed Upgrade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Улучшение Скорости Бега &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Sprint Speed Upgrade" translate="Улучшение Скорости Бега" />
+  <Translate key="Strength Upgrade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Улучшение Силы &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Strength Upgrade" translate="Улучшение Силы" />
+  <Translate key="Range Upgrade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Улучшение Дальности &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Range Upgrade" translate="Улучшение Дальности" />
+  <Translate key="Tumble Launch Upgrade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Улучшение Рывка &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />  
+  <Translate key="Tumble Launch Upgrade" translate="Улучшение Рывка" />  
+  <Translate key="Map Player Count Upgrade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Счетчик игроков на карте &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />  
+  <Translate key="Map Player Count Upgrade" translate="Счетчик игроков на карте" />
+  <Translate key="Extra Jump Upgrade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Двойной прыжок &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />  
+  <Translate key="Extra Jump Upgrade" translate="Двойной прыжок" />
+<!-- Уровни -->
+  <Translate key="LEVEL 1" translate="УРОВЕНЬ 1" />
+  <Translate key="LEVEL 2" translate="УРОВЕНЬ 2" />
+  <Translate key="LEVEL 3" translate="УРОВЕНЬ 3" />
+  <Translate key="LEVEL 4" translate="УРОВЕНЬ 4" />
+  <Translate key="LEVEL 5" translate="УРОВЕНЬ 5" />
+  <Translate key="LEVEL 6" translate="УРОВЕНЬ 6" />
+  <Translate key="LEVEL 7" translate="УРОВЕНЬ 7" />
+  <Translate key="LEVEL 8" translate="УРОВЕНЬ 8" />
+  <Translate key="LEVEL 9" translate="УРОВЕНЬ 9" />
+  <Translate key="LEVEL 10" translate="УРОВЕНЬ 10" />
+  <Translate key="LEVEL 11" translate="УРОВЕНЬ 11" />
+  <Translate key="LEVEL 12" translate="УРОВЕНЬ 12" />
+  <Translate key="LEVEL 13" translate="УРОВЕНЬ 13" />
+  <Translate key="LEVEL 14" translate="УРОВЕНЬ 14" />
+  <Translate key="LEVEL 15" translate="УРОВЕНЬ 15" />
+  <Translate key="LEVEL 16" translate="УРОВЕНЬ 16" />
+  <Translate key="LEVEL 17" translate="УРОВЕНЬ 17" />
+  <Translate key="LEVEL 18" translate="УРОВЕНЬ 18" />
+  <Translate key="LEVEL 19" translate="УРОВЕНЬ 19" />
+  <Translate key="LEVEL 20" translate="УРОВЕНЬ 20" />
+  <Translate key="LEVEL 21" translate="УРОВЕНЬ 21" />
+  <Translate key="LEVEL 22" translate="УРОВЕНЬ 22" />
+  <Translate key="LEVEL 23" translate="УРОВЕНЬ 23" />
+  <Translate key="LEVEL 24" translate="УРОВЕНЬ 24" />
+  <Translate key="LEVEL 25" translate="УРОВЕНЬ 25" />
+  <Translate key="LEVEL 26" translate="УРОВЕНЬ 26" />
+  <Translate key="LEVEL 27" translate="УРОВЕНЬ 27" />
+  <Translate key="LEVEL 28" translate="УРОВЕНЬ 28" />
+  <Translate key="LEVEL 29" translate="УРОВЕНЬ 29" />
+  <Translate key="LEVEL 30" translate="УРОВЕНЬ 30" />
+  <Translate key="LEVEL 31" translate="УРОВЕНЬ 31" />
+  <Translate key="LEVEL 32" translate="УРОВЕНЬ 32" />
+  <Translate key="LEVEL 33" translate="УРОВЕНЬ 33" />
+  <Translate key="LEVEL 34" translate="УРОВЕНЬ 34" />
+  <Translate key="LEVEL 35" translate="УРОВЕНЬ 35" />
+  <Translate key="LEVEL 36" translate="УРОВЕНЬ 36" />
+  <Translate key="LEVEL 37" translate="УРОВЕНЬ 37" />
+  <Translate key="LEVEL 38" translate="УРОВЕНЬ 38" /> 
+  <Translate key="LEVEL 39" translate="УРОВЕНЬ 39" />
+  <Translate key="LEVEL 40" translate="УРОВЕНЬ 40" /> 
+  <Translate key="LEVEL 41" translate="УРОВЕНЬ 41" />
+  <Translate key="LEVEL 42" translate="УРОВЕНЬ 42" />
+  <Translate key="LEVEL 43" translate="УРОВЕНЬ 43" />
+  <Translate key="LEVEL 44" translate="УРОВЕНЬ 44" />
+  <Translate key="LEVEL 45" translate="УРОВЕНЬ 45" />
+  <Translate key="LEVEL 46" translate="УРОВЕНЬ 46" />
+  <Translate key="LEVEL 47" translate="УРОВЕНЬ 47" />
+  <Translate key="LEVEL 48" translate="УРОВЕНЬ 48" />
+  <Translate key="LEVEL 49" translate="УРОВЕНЬ 49" />
+  <Translate key="LEVEL 50" translate="УРОВЕНЬ 50" />
+  <Translate key="LEVEL 51" translate="УРОВЕНЬ 51" />
+  <Translate key="LEVEL 52" translate="УРОВЕНЬ 52" />
+  <Translate key="LEVEL 53" translate="УРОВЕНЬ 53" />
+  <Translate key="LEVEL 54" translate="УРОВЕНЬ 54" />
+  <Translate key="LEVEL 55" translate="УРОВЕНЬ 55" />
+  <Translate key="LEVEL 56" translate="УРОВЕНЬ 56" />
+  <Translate key="LEVEL 57" translate="УРОВЕНЬ 57" />
+  <Translate key="LEVEL 58" translate="УРОВЕНЬ 58" />
+  <Translate key="LEVEL 59" translate="УРОВЕНЬ 59" />
+  <Translate key="LEVEL 60" translate="УРОВЕНЬ 60" />
+  <Translate key="LEVEL 61" translate="УРОВЕНЬ 61" />
+  <Translate key="LEVEL 62" translate="УРОВЕНЬ 62" />
+  <Translate key="LEVEL 63" translate="УРОВЕНЬ 63" />
+  <Translate key="LEVEL 64" translate="УРОВЕНЬ 64" />
+  <Translate key="LEVEL 65" translate="УРОВЕНЬ 65" />
+  <Translate key="LEVEL 66" translate="УРОВЕНЬ 66" />
+  <Translate key="LEVEL 67" translate="УРОВЕНЬ 67" />
+  <Translate key="LEVEL 68" translate="УРОВЕНЬ 68" />
+  <Translate key="LEVEL 69" translate="УРОВЕНЬ 69" />
+  <Translate key="LEVEL 70" translate="УРОВЕНЬ 70" />
+  <Translate key="LEVEL 71" translate="УРОВЕНЬ 71" />
+  <Translate key="LEVEL 72" translate="УРОВЕНЬ 72" />
+  <Translate key="LEVEL 73" translate="УРОВЕНЬ 73" />
+  <Translate key="LEVEL 74" translate="УРОВЕНЬ 74" />
+  <Translate key="LEVEL 75" translate="УРОВЕНЬ 75" />
+  <Translate key="LEVEL 76" translate="УРОВЕНЬ 76" />
+  <Translate key="LEVEL 77" translate="УРОВЕНЬ 77" />
+  <Translate key="LEVEL 78" translate="УРОВЕНЬ 78" />
+  <Translate key="LEVEL 79" translate="УРОВЕНЬ 79" />
+  <Translate key="LEVEL 80" translate="УРОВЕНЬ 80"/>
+  <Translate key="LEVEL 81" translate="УРОВЕНЬ 81"/>
+  <Translate key="LEVEL 82" translate="УРОВЕНЬ 82"/>
+  <Translate key="LEVEL 83" translate="УРОВЕНЬ 83"/>
+  <Translate key="LEVEL 84" translate="УРОВЕНЬ 84"/>
+  <Translate key="LEVEL 85" translate="УРОВЕНЬ 85"/>
+  <Translate key="LEVEL 86" translate="УРОВЕНЬ 86"/>
+  <Translate key="LEVEL 87" translate="УРОВЕНЬ 87"/>
+  <Translate key="LEVEL 88" translate="УРОВЕНЬ 88"/>
+  <Translate key="LEVEL 89" translate="УРОВЕНЬ 89"/>
+  <Translate key="LEVEL 90" translate="УРОВЕНЬ 90"/>
+  <Translate key="LEVEL 91" translate="УРОВЕНЬ 91"/>
+  <Translate key="LEVEL 92" translate="УРОВЕНЬ 92"/>
+  <Translate key="LEVEL 93" translate="УРОВЕНЬ 93"/>
+  <Translate key="LEVEL 94" translate="УРОВЕНЬ 94"/>
+  <Translate key="LEVEL 95" translate="УРОВЕНЬ 95"/>
+  <Translate key="LEVEL 96" translate="УРОВЕНЬ 96"/>
+  <Translate key="LEVEL 97" translate="УРОВЕНЬ 97"/>
+  <Translate key="LEVEL 98" translate="УРОВЕНЬ 98"/>
+  <Translate key="LEVEL 99" translate="УРОВЕНЬ 99"/>
+  <Translate key="LEVEL 100" translate="УРОВЕНЬ 100"/>
+<!-- Ошибки -->
+  <Translate key="Disconnected" translate="Отключение" />
+  <Translate key="Cause: DisconnectByDisconnectMessage" translate="Причина: Отключение по &#10;&#10;сообщению об отключении" />
+  <Translate key="Cause: Host disconnected" translate="Причина: Хост отключился" />
+  <Translate key="Cause: ClientTimeout" translate="Причина: Превышено время &#10;&#10;ожидания клиента" />
+  <Translate key="Lobby closed" translate="Лобби закрыто" />
+  <Translate key="The lobby has closed." translate="Лобби уже закрыто." />
+
+<!-- Это лучше не открывайте -->
+  <!-- <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;1&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;1&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;1&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;1&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;2&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;2&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;3&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;3&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;4&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;4&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;5&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;5&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;6&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;6&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;7&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;7&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;8&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;8&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;9&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;9&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;10&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;10&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;11&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;11&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;12&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;12&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;13&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;13&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;14&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;14&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;15&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;15&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;16&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;16&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;17&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;17&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;18&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;18&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;19&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;19&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;20&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;20&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;21&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;21&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;22&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;22&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;23&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;23&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;24&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;24&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;25&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;25&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;26&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;26&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;27&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;27&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;28&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;28&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;29&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;29&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;30&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;30&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;31&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;31&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;32&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;32&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;33&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;33&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;34&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;34&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;35&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;35&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;36&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;36&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;37&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;37&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;38&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;38&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;39&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;39&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;40&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;40&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;41&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;41&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;42&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;42&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;43&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;43&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;44&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;44&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;45&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;45&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;46&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;46&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;47&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;47&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;48&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;48&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;49&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;49&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" />
+  <Translate key="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; TOTAL HAUL:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;50&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" translate="&lt;color=#33804C&gt;&lt;sprite name=$$$&gt; Общая прибыль:      &lt;b&gt;&lt;/b&gt;$ &lt;/color&gt;&lt;b&gt;50&lt;/b&gt;&lt;color=#33804C&gt;k&lt;/color&gt;" /> -->
+  <!-- t r a n s l a t e b y r a s v e t t m -->
+  <!-- t w i t c h . t v / r a s v e t t m -->
+</ArrayOfTranslate>
